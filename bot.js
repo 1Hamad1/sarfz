@@ -12,7 +12,7 @@ client.on("guildMemberAdd", member => {
         ي بعد عيني الرابط تحت
          Spring SERVER
 
-                                 [ رابط سيرفرك ] **`)
+                                 [ https://discord.gg/g7vFAAc ] **`)
 }).catch(console.error)
 })
 
@@ -24,7 +24,7 @@ client.on("guildMemberRemove", member => {
         ي بعد عيني الرابط تحت
          Spring SERVER
 
-                                 [ رابط سيرفرك ] **`)
+                                 [ https://discord.gg/g7vFAAc ] **`)
 }).catch(console.error)
 })
-client.login('توكن البوت');
+client.login('NTAxMDI0OTg2MTkxMTAxOTUz.DsgeLQ.rYYBVwMU8P43kfc6f_xs7SSGkjc');
