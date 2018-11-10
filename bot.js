@@ -10,7 +10,7 @@ client.on("guildMemberAdd", member => {
       حياك الله ي بعد راسي
        خش بتنورنا فعاليات وكل شيء حلو موجود !
         ي بعد عيني الرابط تحت
-         Spring SERVER
+         FlutsMC Server
 
                                  [ https://discord.gg/g7vFAAc ] **`)
 }).catch(console.error)
@@ -22,7 +22,7 @@ client.on("guildMemberRemove", member => {
       حياك الله ي بعد راسي
        خش بتنورنا فعاليات وكل شيء حلو موجود !
         ي بعد عيني الرابط تحت
-         Spring SERVER
+         FlutsMC Server
 
                                  [ https://discord.gg/g7vFAAc ] **`)
 }).catch(console.error)
